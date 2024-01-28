@@ -1,0 +1,15 @@
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\bin\Debug\net8.0\chapter01.exe
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\bin\Debug\net8.0\chapter01.deps.json
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\bin\Debug\net8.0\chapter01.runtimeconfig.json
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\bin\Debug\net8.0\chapter01.dll
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\bin\Debug\net8.0\chapter01.pdb
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.AssemblyInfoInputs.cache
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.AssemblyInfo.cs
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.csproj.CoreCompileInputs.cache
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.sourcelink.json
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.dll
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\refint\chapter01.dll
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.pdb
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\chapter01.genruntimeconfig.cache
+E:\DEVSBX\NET\CSharp_Nutshell\chapter01\obj\Debug\net8.0\ref\chapter01.dll
