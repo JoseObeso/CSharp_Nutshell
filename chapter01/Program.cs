@@ -14,11 +14,9 @@
         Console.WriteLine($"El monto en Dolares de {dValorLeerDolares} a soles es : S/. {ConvertirAdolares(dValorLeerDolares)}");
         Console.WriteLine("--------- GRACIAS --------------");
         Console.WriteLine($" Saludos para {Saludos("Jose")}");
-
-
-
-
-        // forma de definir una funcion en dotnet 8 -- se ha simplificado
+        Console.WriteLine("---------------------------------");
+ 
+         // forma de definir una funcion en dotnet 8 -- se ha simplificado
 
         int Multiplicar(int a, int b) => a * b;
         int Sumar(int a, int b) => a + b;
