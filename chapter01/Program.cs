@@ -15,6 +15,13 @@
         Console.WriteLine("--------- GRACIAS --------------");
         Console.WriteLine($" Saludos para {Saludos("Jose")}");
         Console.WriteLine("---------------------------------");
+
+        string sMensaje = "Bienvenidos al sistema";
+
+        Console.WriteLine($"El mensaje en mayuscula seria {ConvertirAMayuscula(sMensaje)}");
+
+        Console.WriteLine(sMensaje.ToUpper() + dPrecioDolar);
+        
  
          // forma de definir una funcion en dotnet 8 -- se ha simplificado
 
@@ -23,5 +30,14 @@
         int Restar(int a, int b) => a - b;
         decimal ConvertirAdolares(decimal dValor) => dValor * dPrecioDolar;
         string Saludos(string sNombre) => "Hola " + sNombre;
+
+        string ConvertirAMayuscula(string sMensajeRecibir) => sMensajeRecibir.ToUpper();
+
+
+
+
+
+
+
     }
 }

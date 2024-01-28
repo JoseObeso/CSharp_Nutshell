@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj": {}
+    "E:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj": {}
   },
   "projects": {
-    "e:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj": {
+    "E:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj",
+        "projectUniqueName": "E:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj",
         "projectName": "chapter01",
-        "projectPath": "e:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj",
+        "projectPath": "E:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\chapter01.csproj",
         "packagesPath": "C:\\Users\\MasterJoob\\.nuget\\packages\\",
-        "outputPath": "e:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\obj\\",
+        "outputPath": "E:\\DEVSBX\\NET\\CSharp_Nutshell\\chapter01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
