@@ -15,7 +15,6 @@
         Console.WriteLine("--------- GRACIAS --------------");
         Console.WriteLine($" Saludos para {Saludos("Jose")}");
 
- 
 
 
 
@@ -26,7 +25,5 @@
         int Restar(int a, int b) => a - b;
         decimal ConvertirAdolares(decimal dValor) => dValor * dPrecioDolar;
         string Saludos(string sNombre) => "Hola " + sNombre;
- 
-
     }
 }
