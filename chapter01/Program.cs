@@ -1,5 +1,16 @@
-﻿namespace chapter01.masterclases;
+﻿/* Objetivos:
 
+* Aprender a usar las varibales, mensaje, a definir las clases en el mismo archivo, y en archivos separados
+* Subirlos al GIT
+
+
+*/
+
+// se usa namespace, para llamar a un archivo externo, lo que en PHP seria algo como INCLUDE
+
+using System.Reflection.Metadata;
+
+namespace chapter01.masterclases;
 
 internal class Program
 {
@@ -44,14 +55,14 @@ internal class Program
         */
         #endregion
 
-        int iMontoIngresado = 10;
+        int iMontoIngresado = 50;
 
         /* ejemplo con clase en el mismo archivo */
         ConvertirSolesaPuntos VerificarMonto = new ConvertirSolesaPuntos(); // inicializamos la clase
         string sValidar = VerificarMonto.VerificarSiesElMontoCorrecto(iMontoIngresado); //  usamos su metodo
         bool BConfirma = VerificarMonto.bVerifica(iMontoIngresado); //  realizamos las operacion
 
-        
+
         Console.WriteLine(sValidar);
         if (BConfirma)
         {
@@ -61,15 +72,33 @@ internal class Program
         {
             Console.WriteLine(" --  NO PUEDE JUGAR");
         }
-        // Ejemplo con clase de un archivo diferente masterclases -- se llama usandola directiva namespace
-        GanarPremio VerificarPremio = new GanarPremio(); // inicializamos las clases
+
+        // Ejemplo con clase de un archivo diferente masterclases -- se llama usando la directiva namespace
+
+        // inicializamos las clases, ponemos nombre de la clase seguida de la variable o instancia de clase
+
+        GanarPremio VerificarPremio = new GanarPremio();
+
+
         string sGano = VerificarPremio.Premio(iMontoIngresado); // usamos su metodo : Premio
         Console.WriteLine(sGano); // ejecutamos las operaciones
+
+        int[] EnterosArray = new int[5];
+
+        Console.WriteLine(EnterosArray[3]);
+        /* agregar funcion suma */
+
+
+
+
+
+
+
 
     }
 
     //  Definicion de clases en el mismo archivo, pero separado del metodo main
-    
+
     public class ConvertirSolesaPuntos
     {
         public string VerificarSiesElMontoCorrecto(int iIndicador)
@@ -94,6 +123,9 @@ internal class Program
             }
         }
     }
+
+
+
 
 
 
